@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @tarunkhasnavis
-- 👀 I’m interested in Full-Stack Dev
+- 👀 I’m interested in Web3 Full-Stack Dev
 - 📫 How to reach me: khasnavistarun@gmail.com
 
 <!---
